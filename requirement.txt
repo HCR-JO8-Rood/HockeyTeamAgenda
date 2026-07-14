@@ -1,0 +1,4 @@
+pandas
+icalendar
+requests
+python-dateutil
